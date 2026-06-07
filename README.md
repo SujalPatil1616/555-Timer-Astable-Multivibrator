@@ -91,7 +91,7 @@ The output voltage alternates between 0 V and 5 V, producing a continuous square
 
 ## Capacitor Voltage Waveform
 
-<img src="capacitor_waveform.png" width="700">
+<img src="https://github.com/SujalPatil1616/555-Timer-Astable-Multivibrator/blob/main/Capacitor_Waveform.png" width="700">
 
 ## Observation
 
