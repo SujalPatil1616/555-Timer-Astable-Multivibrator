@@ -28,7 +28,7 @@ Simulation Command:
 
 ## Circuit Diagram
 
-<img src="circuit_diagram.png" width="700">
+<img src="https://github.com/SujalPatil1616/555-Timer-Astable-Multivibrator/blob/main/555%20Timer_Circuit.png" width="700">
 
 ---
 
