@@ -81,7 +81,7 @@ f ≈ 1.37 kHz
 
 ## Output Waveform
 
-<img src="output_waveform.png" width="700">
+<img src="https://github.com/SujalPatil1616/555-Timer-Astable-Multivibrator/blob/main/Output_Waveform.png" width="700">
 
 ## Observation
 
